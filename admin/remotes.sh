@@ -14,7 +14,7 @@ angr/angr
 angr/binaries
 angr/archinfo
 angr/angr.github.io
-angr/cle
+Manouchehri/cle
 angr/identifier
 angr/wheels
 angr/fidget
@@ -62,7 +62,7 @@ angr/angr
 angr/binaries
 angr/archinfo
 angr/angr.github.io
-angr/cle
+Manouchehri/cle
 angr/identifier
 angr/wheels
 angr/fidget
